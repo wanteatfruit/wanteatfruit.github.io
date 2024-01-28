@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Junwen (Jesse) An"
+title                    : "Junwen An's Homepage"
 title_separator          : "-"
 name                     : &name "Junwen An"
-description              : &description "Senior CS Student at SUSTech"
+description              : &description "Seize the moment"
 url                      : https://wanteatfruit.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wanteatfruit/wanteatfruit.github.io"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  # orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
