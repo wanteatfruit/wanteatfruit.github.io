@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year PhD student in the Trustworthy Engineering of Software Technologies ([TEST](https://nus-test.github.io/)) Lab at the National University of Singapore (NUS), fortunate to be advised by [Prof. Manuel Rigger](https://www.manuelrigger.at/). Prior to my PhD, I earned my Bachelor’s degree at Southern University of Science and Technology (SUSTech), advised by [Prof. Yuqun Zhang](https://zhangyuqun.github.io/index.html). I have also worked as a research assistant advised by [Prof. Toby Jia-Jun Li](https://toby.li/) at the University of Notre Dame.
+I am a second-year PhD candidate in the Trustworthy Engineering of Software Technologies ([TEST](https://nus-test.github.io/)) Lab at the National University of Singapore (NUS), fortunate to be advised by [Prof. Manuel Rigger](https://www.manuelrigger.at/). Prior to my PhD, I earned my Bachelor’s degree at Southern University of Science and Technology (SUSTech), advised by [Prof. Yuqun Zhang](https://zhangyuqun.github.io/index.html). I have also worked as a research assistant in Human-Computer Interaction advised by [Prof. Toby Jia-Jun Li](https://toby.li/) at the University of Notre Dame.
 
-My research interests lies at the intersection of software engineering, LLMs and databases, especially in developing practical solutions to enhance software development process. Currently, I am working on unified interfaces for diverse SQL dialects to faciliate downstream query-related applications.
+My research interests lies at the intersection of software engineering, databases and LLMs, especially in developing practical solutions to enhance software development process and reliablity. Currently, I am working on unified interfaces for diverse SQL dialects to faciliate database-related applications.
 
-You can also check out my CV for more detailed information.
+<!-- I am actively looking for internship opportunities in Summer 2026. If you are interested in my profile, please feel free to reach out to me via email ( -->
 
 <!-- News
 ======
