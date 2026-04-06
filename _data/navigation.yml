@@ -3,6 +3,9 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Elsewhere"
+    url: https://query-the-globe.vercel.app/
+
   # - title: "Talks"
   #   url: /talks/    
 
