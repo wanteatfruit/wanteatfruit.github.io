@@ -8,11 +8,11 @@ author_profile: true
 ### 2026
 `ACL 2026 (Main Conference)` **SecureAgentBench: Evaluating Secure Coding Capabilities of Code Agents with Realistic Vulnerability Scenarios**\
 Junkai Chen, Huihui Huang, Yunbo Lyu, **Junwen An**, Jieke Shi, Chengran Yang, Ting Zhang, Haoye Tian, Yikun Li, Zhenhao Li, Xin Zhou, Xing Hu, David Lo.\
-(To appear)
+[[paper](https://arxiv.org/pdf/2509.22097)] [[code](https://github.com/iCSawyer/SecureVibeBench)] [[dataset](https://huggingface.co/datasets/iCSawyer/SecureVibeBench)]
 
 `SIGMOD 2026` **Dialect-Agnostic SQL Parsing via LLM-Based Segmentation**\
 **Junwen An**, Kabilan Mahathevan, Manuel Rigger. \
- (To appear)
+[[paper](https://arxiv.org/pdf/2603.16155)] [[code](https://github.com/wanteatfruit/SQLFlex)]
 
 ### 2024
 `ICSE 2024` **BinaryAI: Binary Software Composition Analysis via Intelligent Binary Source Code Matching**\
