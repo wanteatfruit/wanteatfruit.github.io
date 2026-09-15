@@ -16,6 +16,8 @@ My research interests lies at the intersection of software engineering, database
 
 News
 ======
+- 09/2026: Our paper **Efficient Dialect-Agnostic SQL Equivalence Refutation** is accepted by SIGMOD 2027!
+- 09/2026: Successfully completed my internship at Snowflake. Stay tuned for future collaborations!
 - 02/2026: Our paper **Dialect-Agnostic SQL Parsing via LLM-Based Segmentation** is accepted by SIGMOD 2026!
 - 12/2025: I will join **Snowflake ❄️** as a Software Engineer Intern in Summer 2026!
 - 10/2025: Awarded **Gold Medal 🏅** at SPLASH'25 Student Research Competition for "LLM-Assisted Dialect-Agnostic SQL Query Parsing"!

@@ -5,6 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+### 2027
+`SIGMOD 2027` **Efficient Dialect-Agnostic SQL Equivalence Refutation**\ **Junwen An**, Manuel Rigger.\
+
 ### 2026
 `ACL 2026 (Main Conference)` **SecureAgentBench: Evaluating Secure Coding Capabilities of Code Agents with Realistic Vulnerability Scenarios**\
 Junkai Chen, Huihui Huang, Yunbo Lyu, **Junwen An**, Jieke Shi, Chengran Yang, Ting Zhang, Haoye Tian, Yikun Li, Zhenhao Li, Xin Zhou, Xing Hu, David Lo.\
